@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Souvik
 - 👀 I’m interested in Deep Learning models and LLMs
 - 🌱 I’m currently learning multimodal multilingual models
-- 💞️ I’m looking to collaborate on Deep Learning and NLP projects
+- 💞️ I’m looking to collaborate on Data Science, Deep Learning and NLP projects
 - 📫 How to reach me: souviktfg73@gmail.com
 - 😄 Pronouns: HE/Him
 - ⚡ Fun fact: I am a maths major. I am doing an MSc in IIT Patna, but I have no interest in doing a PhD in mathematics🤓
